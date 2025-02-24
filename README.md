@@ -2,7 +2,7 @@
 
 <a href="https://velog.io/@sjc0829" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=ffffff"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun950829&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun950829&layout=compact)](https://github.com/jun950829/github-readme-stats)
 
