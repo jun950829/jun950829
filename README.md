@@ -1,22 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jun (jun950829)</h1>
+<p align="center">
+  💻 Passionate Developer from Korea 🇰🇷<br/>
+  🚀 Exploring scalable backend systems and interactive frontend interfaces.
+</p>
 
-<a href="https://velog.io/@sjc0829" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=ffffff"/></a>
+---
 
+📫 Contact: **jun950829@gmail.com**
 
+🔗 Portfolio: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun950829&layout=compact)](https://github.com/jun950829/github-readme-stats)
+---
 
-<!--
-**jun950829/jun950829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,java,spring,docker,mysql,redis,aws,git" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jun950829&show_icons=true&theme=default" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun950829&layout=compact" />
+</p>
+
+---
