@@ -8,7 +8,8 @@
 
 📫 Contact: **jun950829@gmail.com**
 
-🔗 Portfolio: 
+🔗 Portfolio: [📄 포트폴리오 다운로드](https://drive.google.com/file/d/1oa8irOH3rd0Zod7eaMeqBE-7wAWilET3/view?usp=drive_link)
+
 
 ---
 
